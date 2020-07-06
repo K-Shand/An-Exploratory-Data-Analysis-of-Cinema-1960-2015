@@ -9,3 +9,5 @@ The report uncovers various trends, focusing particularly on the below points:
 I will be using statistics and visualisations to move through the 10,000 strong movie database in Python and answer the stated questions.
 
 I hope you enjoy the report!
+
+Utilises: Various packages in Python (pandas, numpy, matplotlib, seaborn)
